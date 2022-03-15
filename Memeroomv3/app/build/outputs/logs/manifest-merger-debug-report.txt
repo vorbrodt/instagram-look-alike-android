@@ -1,0 +1,269 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6e024da76d856cf517581d0a7410e6c8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/44584d7c418d7a43d9430cd347d53ae6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a4321b21176d6f9578b567e4f975341/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/47a71452ec831f49f82313e04b75c376/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5f12ae63837f7f80780dd76f986e483e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6571fabd4d7c6e482dc813065b10f60f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/418ad69ef21650aa8ea49b614c208e00/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc54f5197b2ad51251f6579f74e807b0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/19f5a4f2dbe3357db499730c8ecb0579/AndroidManifest.xml:17:1-22:12
+MERGED from [com.shamanland:xdroid-toaster:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-toaster-0.2.4.aar/07e6d9ce5933d8367e2b1efd7bfea8b0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/830f845237a807ef09044deaccba9972/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/362266c8e8eca13ec9fc8568e9adc360/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3c37da7a3f83668cc5314a395422dcc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/838420e31add9a858a8ad39efca4a0bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/19b25b65f8ac9c392ae0ac7b25711260/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7a155831a86217be6dd32e48aebbbf3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/d0732cdd785d59f0be2d6877d6a18f01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b8856ba4ae1a3bc94935820c7fbd5893/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/18640ec85c5e9b444e5cc678d40152d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ffd19be9d15ef3763bb902323b7435ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f1bc4f6db54ee661648ee2e91a2e2b9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7df0d85a02af1afb75821816ca61d033/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9a0555dfc9639fa72def9a7c60a1a3f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f43bcad722803093258d42a67f64e4f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1f5293567b3ada7856c582bb558c94f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7e966933bd4f917b91eabecebc55e295/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1872abc0ad95601f509bf5e1cedb86e1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/614c9669e690c87e67849d630de623aa/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/08edffd208a1bfb8c046998736e5df41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/84e1c163cf7c6c48678cdcc1c1ed2583/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/432b669b740699e1bb574b5b4781a100/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/447f02f07d8e8b15a5a9505f4b3db6eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/385f7cd8d8a97b6ea9e85b9e71a202e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b148ab4db5b81e7f031aa06da02833fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9e1f2f8d2eeb00ee67304cb111bfaf85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3a279399f933812d6342ba6342c867cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9546bbe65f07cb8d5fb09455f5cc5deb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f3a5ad1d5ddcee21fee4ca66e8f4836e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/76bd13b3ca17637016e358b71dbf952e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.shamanland:xdroid-core:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-core-0.2.4.aar/e150e9f115502af6180926c8e678b761/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:9:5-40:19
+MERGED from [com.android.support:design:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6e024da76d856cf517581d0a7410e6c8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6e024da76d856cf517581d0a7410e6c8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a4321b21176d6f9578b567e4f975341/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a4321b21176d6f9578b567e4f975341/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/47a71452ec831f49f82313e04b75c376/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/47a71452ec831f49f82313e04b75c376/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5f12ae63837f7f80780dd76f986e483e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5f12ae63837f7f80780dd76f986e483e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6571fabd4d7c6e482dc813065b10f60f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6571fabd4d7c6e482dc813065b10f60f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/418ad69ef21650aa8ea49b614c208e00/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/418ad69ef21650aa8ea49b614c208e00/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc54f5197b2ad51251f6579f74e807b0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc54f5197b2ad51251f6579f74e807b0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.shamanland:xdroid-toaster:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-toaster-0.2.4.aar/07e6d9ce5933d8367e2b1efd7bfea8b0/AndroidManifest.xml:12:5-20
+MERGED from [com.shamanland:xdroid-toaster:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-toaster-0.2.4.aar/07e6d9ce5933d8367e2b1efd7bfea8b0/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1872abc0ad95601f509bf5e1cedb86e1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1872abc0ad95601f509bf5e1cedb86e1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/614c9669e690c87e67849d630de623aa/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/614c9669e690c87e67849d630de623aa/AndroidManifest.xml:22:5-23:19
+MERGED from [com.shamanland:xdroid-core:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-core-0.2.4.aar/e150e9f115502af6180926c8e678b761/AndroidManifest.xml:12:5-20
+MERGED from [com.shamanland:xdroid-core:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-core-0.2.4.aar/e150e9f115502af6180926c8e678b761/AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1872abc0ad95601f509bf5e1cedb86e1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:13:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:11:9-44
+	android:roundIcon
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:15:9-54
+	android:largeHeap
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:14:9-33
+	android:icon
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.memeroom.LoggedIn.FollowingActivity
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:18:9-63
+	android:name
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:18:19-61
+activity#com.example.memeroom.LoggedIn.DisplayMemeActivity
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:19:9-25:57
+	android:screenOrientation
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:22:13-64
+	android:windowSoftInputMode
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:25:13-54
+	android:configChanges
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:21:13-74
+	android:theme
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:20:13-57
+activity#com.example.memeroom.LoggedIn.MemeRoomActivity
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:26:9-29:52
+	android:screenOrientation
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:29:13-49
+	android:configChanges
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:28:13-74
+	android:name
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:27:13-54
+activity#com.example.memeroom.LoginAndCreate.MainActivity
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:30:9-39:20
+	android:screenOrientation
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:32:13-74
+	android:name
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:31:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6e024da76d856cf517581d0a7410e6c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6e024da76d856cf517581d0a7410e6c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/44584d7c418d7a43d9430cd347d53ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/44584d7c418d7a43d9430cd347d53ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a4321b21176d6f9578b567e4f975341/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a4321b21176d6f9578b567e4f975341/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/47a71452ec831f49f82313e04b75c376/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/47a71452ec831f49f82313e04b75c376/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5f12ae63837f7f80780dd76f986e483e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5f12ae63837f7f80780dd76f986e483e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6571fabd4d7c6e482dc813065b10f60f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6571fabd4d7c6e482dc813065b10f60f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/418ad69ef21650aa8ea49b614c208e00/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/418ad69ef21650aa8ea49b614c208e00/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc54f5197b2ad51251f6579f74e807b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc54f5197b2ad51251f6579f74e807b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/19f5a4f2dbe3357db499730c8ecb0579/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/19f5a4f2dbe3357db499730c8ecb0579/AndroidManifest.xml:20:5-44
+MERGED from [com.shamanland:xdroid-toaster:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-toaster-0.2.4.aar/07e6d9ce5933d8367e2b1efd7bfea8b0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.shamanland:xdroid-toaster:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-toaster-0.2.4.aar/07e6d9ce5933d8367e2b1efd7bfea8b0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/830f845237a807ef09044deaccba9972/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/830f845237a807ef09044deaccba9972/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/362266c8e8eca13ec9fc8568e9adc360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/362266c8e8eca13ec9fc8568e9adc360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3c37da7a3f83668cc5314a395422dcc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3c37da7a3f83668cc5314a395422dcc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/838420e31add9a858a8ad39efca4a0bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/838420e31add9a858a8ad39efca4a0bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/19b25b65f8ac9c392ae0ac7b25711260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/19b25b65f8ac9c392ae0ac7b25711260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7a155831a86217be6dd32e48aebbbf3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7a155831a86217be6dd32e48aebbbf3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/d0732cdd785d59f0be2d6877d6a18f01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/d0732cdd785d59f0be2d6877d6a18f01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b8856ba4ae1a3bc94935820c7fbd5893/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b8856ba4ae1a3bc94935820c7fbd5893/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/18640ec85c5e9b444e5cc678d40152d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/18640ec85c5e9b444e5cc678d40152d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ffd19be9d15ef3763bb902323b7435ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ffd19be9d15ef3763bb902323b7435ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f1bc4f6db54ee661648ee2e91a2e2b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f1bc4f6db54ee661648ee2e91a2e2b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7df0d85a02af1afb75821816ca61d033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7df0d85a02af1afb75821816ca61d033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9a0555dfc9639fa72def9a7c60a1a3f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9a0555dfc9639fa72def9a7c60a1a3f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f43bcad722803093258d42a67f64e4f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f43bcad722803093258d42a67f64e4f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1f5293567b3ada7856c582bb558c94f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1f5293567b3ada7856c582bb558c94f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7e966933bd4f917b91eabecebc55e295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7e966933bd4f917b91eabecebc55e295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1872abc0ad95601f509bf5e1cedb86e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1872abc0ad95601f509bf5e1cedb86e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/614c9669e690c87e67849d630de623aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/614c9669e690c87e67849d630de623aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/08edffd208a1bfb8c046998736e5df41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/08edffd208a1bfb8c046998736e5df41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/84e1c163cf7c6c48678cdcc1c1ed2583/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/84e1c163cf7c6c48678cdcc1c1ed2583/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/432b669b740699e1bb574b5b4781a100/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/432b669b740699e1bb574b5b4781a100/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/447f02f07d8e8b15a5a9505f4b3db6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/447f02f07d8e8b15a5a9505f4b3db6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/385f7cd8d8a97b6ea9e85b9e71a202e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/385f7cd8d8a97b6ea9e85b9e71a202e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b148ab4db5b81e7f031aa06da02833fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b148ab4db5b81e7f031aa06da02833fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9e1f2f8d2eeb00ee67304cb111bfaf85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9e1f2f8d2eeb00ee67304cb111bfaf85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3a279399f933812d6342ba6342c867cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3a279399f933812d6342ba6342c867cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9546bbe65f07cb8d5fb09455f5cc5deb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9546bbe65f07cb8d5fb09455f5cc5deb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f3a5ad1d5ddcee21fee4ca66e8f4836e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f3a5ad1d5ddcee21fee4ca66e8f4836e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/76bd13b3ca17637016e358b71dbf952e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/76bd13b3ca17637016e358b71dbf952e/AndroidManifest.xml:20:5-44
+MERGED from [com.shamanland:xdroid-core:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-core-0.2.4.aar/e150e9f115502af6180926c8e678b761/AndroidManifest.xml:8:5-10:41
+MERGED from [com.shamanland:xdroid-core:0.2.4] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/xdroid-core-0.2.4.aar/e150e9f115502af6180926c8e678b761/AndroidManifest.xml:8:5-10:41
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5f12ae63837f7f80780dd76f986e483e/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5f12ae63837f7f80780dd76f986e483e/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5f12ae63837f7f80780dd76f986e483e/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5f12ae63837f7f80780dd76f986e483e/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc54f5197b2ad51251f6579f74e807b0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc54f5197b2ad51251f6579f74e807b0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximilianvorbrodt/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc54f5197b2ad51251f6579f74e807b0/AndroidManifest.xml:24:13-58

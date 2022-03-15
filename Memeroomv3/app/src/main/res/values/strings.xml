@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Memeroom</string>
+    <string name="login_text">Login</string>
+    <string name="email_text">example@memeroom.com</string>
+    <string name="password_text">secret code</string>
+    <string name="create_account">Create New Account</string>
+    <string name="create_username">Username </string>
+    <string name="register_account">Register </string>
+    <string name="confirm_password">same secret code </string>
+    <string name="memeroom_text">MEMEROOM</string>
+    <string name="already_member">Already a memember of \n the meme sqaud?</string>
+    <string name="post_button_text">Share The Meme</string>
+    <string name="dont_post_button_text">Dont Share The Meme</string>
+    <string name="following">Following</string>
+    <string name="follow_button">Follow</string>
+    <string name="following_list">Following</string>
+    <string name="hintsearch">ex. Meme_user</string>
+    <string name="log_out">Log out</string>
+
+    <string name="title_activity_display_meme">DisplayMemeActivity</string>
+    <string name="cameraText">Camera</string>
+    <string name="picture_of_meme">Picture of meme</string>
+    <string name="startlikevalue">0</string>
+    <string name="dislike_button">Dislike button</string>
+    <string name="like_button">Like button</string>
+    <string name="dislikestartvalue">0</string>
+    <string name="add_comment">Add comment</string>
+    <string name="edit_this_picture">Edit this picture</string>
+    <string name="add_memeline">Add Memeline</string>
+    <string name="nofollowingfound">You are currently not following anyone. Go and search for them!</string>
+    <string name="no_following_found_image">no following found image</string>
+    <string name="profile_picture_goes_here">profile picture goes here</string>
+    <string name="get_the_location">get the location</string>
+    <string name="searched_profile_picture">searched profile picture</string>
+    <string name="error_account_does_not_exist">Error account does not exist!</string>
+    <string name="no_user_found_image">no user found image</string>
+    <string name="home">Home</string>
+    <string name="upload">Upload</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+
+</resources>

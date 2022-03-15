@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/memebackground"
+    tools:context=".LoggedIn.MenuFragments.ProfileFragments.EditMemePic"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textColor="@color/white"
+        android:hint="@string/add_memeline"
+        android:textColorHint="#ed9595"
+        android:id="@+id/TitleMeme"
+        android:layout_marginTop="20dp"
+        tools:ignore="Autofill,TextFields" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/EditMeme"
+        android:layout_weight="20"
+        android:contentDescription="@string/edit_this_picture" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/post_button_text"
+        android:onClick="yesUpload"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dont_post_button_text"
+        android:onClick="noUpload"/>
+
+
+</LinearLayout>

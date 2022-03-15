@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoggedIn.DisplayMemeActivity"
+    android:orientation="vertical"
+    android:background="@drawable/memebackground">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        tools:ignore="UselessParent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="100"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/memeTitle"
+       />
+
+    <ImageView
+        android:id="@+id/memePicture"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_weight="50"
+        android:contentDescription="@string/picture_of_meme" />
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+        
+        <ImageButton
+            android:layout_marginLeft="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/tummeup"
+            android:layout_gravity="center"
+            android:clickable="true"
+            android:onClick="upVote"
+            android:id="@+id/upVote"
+            android:layout_marginStart="25dp"
+            tools:ignore="KeyboardInaccessibleWidget"
+            android:contentDescription="@string/like_button" />
+
+        <TextView
+            android:id="@+id/likes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:textSize="25sp"
+            android:text="@string/startlikevalue"
+            android:layout_gravity="center"
+            android:layout_marginStart="25dp" />
+
+        <ImageButton
+            android:layout_marginLeft="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/tummener"
+            android:layout_gravity="center"
+            android:onClick="downVote"
+            android:id="@+id/downVote"
+            android:layout_marginStart="25dp"
+            android:contentDescription="@string/dislike_button" />
+
+        <TextView
+            android:id="@+id/dislikes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:textSize="25sp"
+            android:text="@string/dislikestartvalue"
+            android:layout_gravity="center"
+            android:layout_marginStart="25dp" />
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="60dp"
+            android:weightSum="4"
+            android:id="@+id/searchBar">
+            <EditText
+                android:id="@+id/commenttext"
+                android:layout_marginTop="20dp"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:imeOptions="actionDone"
+                android:inputType="text"
+                android:textColor="@color/lightorangedark"
+                tools:ignore="Autofill,LabelFor" />
+            <Button
+                android:layout_width="wrap_content"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:layout_gravity="right"
+                android:layout_height="60dp"
+                android:text="@string/add_comment"
+                android:textSize="15sp"
+                android:textColor="@color/white"
+                android:background="@color/black"
+                android:onClick="AddComment"
+                android:id="@+id/commentButton"
+                android:layout_toEndOf="@+id/commenttext"
+                android:layout_toRightOf="@+id/commenttext"
+                tools:ignore="ObsoleteLayoutParam,RtlHardcoded" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/commentSection"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoggedIn.MenuFragments.MenuResponseHandlers.UserNotFound"
+    android:weightSum="10"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textStyle="italic"
+        android:textSize="27sp"
+        android:textColor="#000"
+        android:text="@string/error_account_does_not_exist"
+        android:layout_weight="3"
+        android:gravity="bottom"
+        android:textAlignment="center"/>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0"
+        android:background="@drawable/usernotfound"
+        android:contentDescription="@string/no_user_found_image" />
+
+
+
+
+
+</LinearLayout>

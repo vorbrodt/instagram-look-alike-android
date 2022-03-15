@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/holo_red_light"
+    android:id="@+id/displaysearch">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="0dp"
+        android:weightSum="4"
+        android:id="@+id/searchBar">
+    <EditText
+        android:id="@+id/searchtext"
+        android:hint="@string/hintsearch"
+        android:textColorHint="#bec1c6"
+        android:layout_marginTop="20dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:imeOptions="actionGo"
+        android:inputType="text"
+        tools:ignore="Autofill" />
+    <Button
+        android:layout_toRightOf="@+id/searchtext"
+        android:layout_width="wrap_content"
+        android:paddingRight="30dp"
+        android:paddingLeft="30dp"
+        android:layout_gravity="right"
+        android:layout_height="60dp"
+        android:text="@string/search"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:onClick="searchProfile"
+        tools:ignore="ObsoleteLayoutParam,RtlHardcoded" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/searchContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/searchBar">
+
+
+
+
+    </FrameLayout>
+</RelativeLayout>

@@ -1,0 +1,4 @@
+#Sun Feb 28 16:20:30 CET 2021
+base.0=/Users/maximilianvorbrodt/Documents/PROGRAMMING/Memeroom/TDDD80/Procjet/Memeroomv3/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

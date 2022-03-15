@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.shamanland:xdroid-core:0.2.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xdroid-core-0.2.4.aar/e150e9f115502af6180926c8e678b761/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xdroid-core-0.2.4.aar/e150e9f115502af6180926c8e678b761/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shamanland/xdroid-core/0.2.4/5bcf96551ea97c760578c6ea96bce1dcd18e42cb/xdroid-core-0.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.shamanland:xdroid-toaster:0.2.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xdroid-toaster-0.2.4.aar/07e6d9ce5933d8367e2b1efd7bfea8b0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xdroid-toaster-0.2.4.aar/07e6d9ce5933d8367e2b1efd7bfea8b0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shamanland/xdroid-toaster/0.2.4/4972c7504d84a5c3bddbd6c1196591528017cc4/xdroid-toaster-0.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

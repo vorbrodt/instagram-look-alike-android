@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+    <item>
+        <shape
+            android:shape="oval">
+
+    <stroke
+        android:color="#B0B0B0"
+        android:width="3dp"
+        />
+    <solid
+        android:color="#D9D9D9"
+        />
+    <size
+        android:width="160dp"
+        android:height="160dp"
+        />
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/icon_add_photo"
+        android:width="200px"
+        android:height="200px"
+        android:gravity="center"
+        android:right="7dp"
+        />
+</layer-list>
+
